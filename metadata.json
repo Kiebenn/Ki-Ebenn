@@ -1,0 +1,6 @@
+{
+  "name": "Teacher Dashboard",
+  "description": "A modern mobile-first teacher dashboard featuring a minimal, red pastel theme with transparent batik motifs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
